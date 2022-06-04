@@ -3,7 +3,7 @@ from spotipy.oauth2 import SpotifyOAuth
 from songs_list import SongsList
 songlist = SongsList()
 
-# ___ We are using spotipy python library for creating the spotify playlist___ 3
+# ___ We are using spotipy python library for creating the spotify playlist___ #
 # ___spotify.oauth2 helps us to authenticate___ #
 
 scope = "playlist-modify-public"
